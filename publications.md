@@ -1,6 +1,7 @@
 ---
 layout: page
-subtitle: Suruchi Fialoke
+subtitle: #
+title: #
 ---
 
 
