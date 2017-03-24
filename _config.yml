@@ -25,10 +25,10 @@ description: personal website of Suruchi Fialoke
 navbar-links:
   About Me: "aboutme"
   Blog: "http://SuruchiUpenn.github.io"
-  Projects: "Projects"
+  Projects: "projects"
   Research:
-    - My Research: "Research.md"
-    - Publications: "Publications.md"
+    - My Research: "research"
+    - Publications: "Publications"
     - Group Webpage: "http://patelgroup.seas.upenn.edu/index.html"  
 
   
