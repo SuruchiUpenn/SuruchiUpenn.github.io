@@ -23,13 +23,13 @@ Ph.D. candidate
 
 ### Education
 
-University of Pennsylvania, 2017
+###### University of Pennsylvania, 2017
 
 Doctor of Philosophy, Chemical and Biomolecular Engineering (GPA 3.94/4.0)
 
-[Indian Institute of Technology (IIT), Kharagpur](http://iitkgp.ac.in/), 2012
+###### [Indian Institute of Technology (IIT), Kharagpur](http://iitkgp.ac.in/), 2012
 
-B.Tech, M.Tech dual degree, Chemical Engineering	(GPA 8.9/10, Graduated with Honors)
+-- B.Tech, M.Tech dual degree, Chemical Engineering	(GPA 8.9/10, Graduated with Honors)
 
 ### Resume 
 Please download my latest resume [here]().
