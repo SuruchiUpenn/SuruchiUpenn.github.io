@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Introduction to Molecular Dynamics Simulation
-image: /img/md.pnd
+image: /img/md.png
 tags: [wiki, research, simulation]
 ---
 
