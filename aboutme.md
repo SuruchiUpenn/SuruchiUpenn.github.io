@@ -12,10 +12,8 @@ subtitle: Suruchi Fialoke
 ### Current Affiliation
 Ph.D. candidate
 
-[Amish Patel Research Lab](http://patelgroup.seas.upenn.edu/)
-
-[Department of Chemical and Biomolecular Engineering](http://www.cbe.seas.upenn.edu/)
-
+[Amish Patel Research Lab](http://patelgroup.seas.upenn.edu/)  
+[Department of Chemical and Biomolecular Engineering](http://www.cbe.seas.upenn.edu/)  
 University of Pennsylvania
 
 
