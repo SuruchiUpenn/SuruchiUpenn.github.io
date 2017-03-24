@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About me
 subtitle: Suruchi Fialoke
 ---
 
-
+## About Me
 - I am a computational scientist with 5 years experience in cluster computing, statistics, data analysis and visualization. 
 - I am currently pursuing my PhD at University of Pennsylvania and my research involves employing computational techniques to design  advanced materials.
 - I am passionate about using computational methods to solve science and engineering problems. 
