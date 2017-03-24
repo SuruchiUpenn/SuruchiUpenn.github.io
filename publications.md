@@ -4,10 +4,10 @@
 
 ### Publications
 
-4. S Prakash , and AJ Patel, Simulation strategies to accurately compute interfacial properties of solid-liquid interfaces, coming soon (2017).
-3. S Prakash , and AJ Patel, Cooperative effects in dewetting can facilitate spontaneous recovery of superhydrophobicity, submitted (2017).
-2. S Prakash , E Xi, and AJ Patel, Spontaneous Recovery of Superhydrophobicity on Nanotextured Surfaces , Proceedings of the National Academy of Sciences, 113, 5508-5513 (2016).
-1. N Bhandaru, S Roy, S Prakash , G. Harikrishnan, and R Mukherjee, Lithographic tuning of polymeric thin film surfaces by stress relaxation, ACS Macro Letters, 2, 195-200 (2013).
+1. S Prakash , and AJ Patel, Simulation strategies to accurately compute interfacial properties of solid-liquid interfaces, coming soon (2017).
+2. S Prakash , and AJ Patel, Cooperative effects in dewetting can facilitate spontaneous recovery of superhydrophobicity, submitted (2017).
+3. S Prakash , E Xi, and AJ Patel, Spontaneous Recovery of Superhydrophobicity on Nanotextured Surfaces , Proceedings of the National Academy of Sciences, 113, 5508-5513 (2016).
+4. N Bhandaru, S Roy, S Prakash , G. Harikrishnan, and R Mukherjee, Lithographic tuning of polymeric thin film surfaces by stress relaxation, ACS Macro Letters, 2, 195-200 (2013).
 
 ### Patent
 - Ref: 607/KOL/2012: A method for generation of nanoscale surface patterns with different feature heights in polymer films coated on planar and non planar surfaces using single stamp (2012)
