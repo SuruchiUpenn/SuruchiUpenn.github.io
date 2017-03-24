@@ -1,6 +1,5 @@
 ---
 layout: page
-bigimg: /img/image_surf.png
 ---
 ## Research
 
