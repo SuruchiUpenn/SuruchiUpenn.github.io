@@ -7,4 +7,4 @@ tags: [random, exciting-stuff]
 
 This is my first post, how exciting!
 
-Thank you daatali for this incredible [theme] https://github.com/daattali/beautiful-jekyll
+Thank you daatali for this incredible [theme] (https://github.com/daattali/beautiful-jekyll)
