@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Iintroduction to Molecular Dynamics Simulation 
+title: An Introduction to Molecular Dynamics Simulation 
 tags: [pirates, random]
 ---
 
