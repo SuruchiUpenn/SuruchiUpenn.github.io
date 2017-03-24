@@ -26,7 +26,7 @@ navbar-links:
   Blog Home: "http://SuruchiUpenn.github.io"
   About Me: "aboutme"
   Research:
-    - Projects: "Projects.md"
+    - My Research: "Research.md"
     - Publication: "Publications.md"
     - Group Webpage: "http://patelgroup.seas.upenn.edu/index.html"  
 
