@@ -1,6 +1,7 @@
 ---
 layout: post
-title: An Introduction to Molecular Dynamics Simulation 
+title: An Introduction to Molecular Dynamics Simulation
+image: /img/md.jpeg
 tags: [pirates, random]
 ---
 
