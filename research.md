@@ -18,7 +18,6 @@ However, the study of these nanomaterials using macroscopic models is often chal
 This challenge often comes in the way of envisaging the design principles for creating these nanomaterials. 
 
 ![Nanotextured Surfaces](/img/image_surf.png)
-Format: ![Alt Text](url)
 
 Molecular dynamics simulations allow for the direct study of the dynamical and thermodynamical evolution of a system.By understanding the behaviour of water and other liquids adjacent to complex nanoscopic surfaces using molecular simulations, I inform the design of functional materials. Some of the systems that I have explored are non-sticky superhydrophobic and oleophobic surfaces, pores enabling heterogeneous nucleation and desalination membranes. Shown above are some of the surfaces that I have studied using molecular dynamics simulations
 
@@ -32,6 +31,7 @@ It is now well established that superhydrophobicity derives from texturing of hy
 the aversion of water for the hydrophobic surface prevents wetting of the surface texture, and stabilizes a Cassie state, 
 in which a water droplet resides on the tips of the surface asperities.
 
+![Superhydrophobic Surfaces](/img/Image_superhyd.png)
 
 
 However, a key bottleneck in the widespread adoption of superhydrophobic surfaces has been the irreversible loss of superhydrophobicity, a consequence of wetting of the surface texture into a non-functional Wenzel state, under a variety of conditions ranging from elevated pressure and temperature to condensation of water in the texture. Furthermore, this wetting of the surface texture i.e the loss of superhydrophobicity is widely believed to be irreversible due to the large energy barriers that prevent the reverse (dewetting) transition.
@@ -49,6 +49,7 @@ For instance, placing hydrophobic nanoparticle of just the right topography (rig
 
 Another context where nanotechnology can play a crucial role is the use of nanoparticles films for desalination. Desalination of sea-water is seen as one the most reliable solution to address rising need of fresh water due to growth in population, industry and agriculture as well as climatic shifts. Currently, the most common method for desalinating water is reverse osmosis in which sea-water is put under high pressure to force it through semipermeable membranes usually made of highly charged polymer composites that allow the passage of water but block ions. However, this process also offers significant resistance to the flow of water and requires large amounts of energy. Strategic modifications in polymer-based membranes may allow a greater flux of water while still preventing the passage of salts. Recently, it has been shown that the desalination efficiency could be further significantly improved by layering the polymer membranes with functionalized nanoparticles (NP). However a fundamental understanding of this process is lacking due to its vast parameter space. For example, charging up the nanoparticles or reducing the pore size can result in increased desalination efficiency but decreased water flux. There are no design principles or guidelines to inform the optimum set of parameters for desalination. 
 
+![Desalination Membranes](/img/Image_desal.png)
 
 
 I seek to establish a connection between the molecular properties of the membrane and its macroscopic performance by using molecular dynamics simulations. Using NP films is particularly convenient, because it provides unprecedented control over the pore geometry and its chemical environment, and has also been shown to be easy to manufacture and scale.
