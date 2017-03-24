@@ -14,9 +14,22 @@ subtitle: Suruchi Fialoke
 
 ### Current Affiliation
 Ph.D. candidate
+
 [Amish Patel Research Lab](http://patelgroup.seas.upenn.edu/)
+
 [Department of Chemical and Biomolecular Engineering](http://www.cbe.seas.upenn.edu/)
+
 [University of Pennsylvania](http://www.upenn.edu/)
+
+### Education
+
+University of Pennsylvania, 2017
+
+Doctor of Philosophy, Chemical and Biomolecular Engineering (GPA 3.94/4.0)
+
+[Indian Institute of Technology (IIT), Kharagpur](http://iitkgp.ac.in/), 2012
+
+B.Tech, M.Tech dual degree, Chemical Engineering	(GPA 8.9/10, Graduated with Honors)
 
 ### Resume 
 Please download my latest resume [here]().
