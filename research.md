@@ -4,7 +4,7 @@ layout: page
 ## Research
 
 >_I want to build a billion tiny factories, models of each other, which are manufacturing simultaneously… The principles of physics, as far as I can see, do not speak against the possibility of maneuvering things atom by atom. It is not an attempt to violate any laws; it is something, in principle, that can be done; but in practice, it has not been done because we are too big_ 
-Richard Fynman
+-Richard Fynman
 
 ### Computational Design of Advanced Materials
 
@@ -35,3 +35,15 @@ However, a key bottleneck in the widespread adoption of superhydrophobic surface
 
 By using molecular dynamics simulations to characterize the free energetics and pathways of transition between the Cassie and the Wenzel states, our work strives to understand wetting-dewetting transitions on textured surfaces on a molecular level. Importantly, I illustrate how an understanding of dewetting pathways can inform the design of novel surface textures on which dewetting barriers vanish and superhydrophobicity can be spontaneously recovered. Such robust superhydrophobic surfaces, identified here for the first time, could find widespread application even under the most challenging conditions such as underwater operation or condensation heat transfer applications.
 
+
+For instance, placing hydrophobic nanoparticle of just the right topography (right most movie) allows the system to spontaneously dewet. While the first and the second systems don't dewet. [Read full story here: S Prakash _et. al._ PNAS (2016)](http://www.pnas.org/content/113/20/5508).
+
+
+
+### Desalination Membranes
+
+Another context where nanotechnology can play a crucial role is the use of nanoparticles films for desalination. Desalination of sea-water is seen as one the most reliable solution to address rising need of fresh water due to growth in population, industry and agriculture as well as climatic shifts. Currently, the most common method for desalinating water is reverse osmosis in which sea-water is put under high pressure to force it through semipermeable membranes usually made of highly charged polymer composites that allow the passage of water but block ions. However, this process also offers significant resistance to the flow of water and requires large amounts of energy. Strategic modifications in polymer-based membranes may allow a greater flux of water while still preventing the passage of salts. Recently, it has been shown that the desalination efficiency could be further significantly improved by layering the polymer membranes with functionalized nanoparticles (NP). However a fundamental understanding of this process is lacking due to its vast parameter space. For example, charging up the nanoparticles or reducing the pore size can result in increased desalination efficiency but decreased water flux. There are no design principles or guidelines to inform the optimum set of parameters for desalination. 
+
+
+
+I seek to establish a connection between the molecular properties of the membrane and its macroscopic performance by using molecular dynamics simulations. Using NP films is particularly convenient, because it provides unprecedented control over the pore geometry and its chemical environment, and has also been shown to be easy to manufacture and scale.
