@@ -26,8 +26,8 @@ navbar-links:
   Blog Home: "http://SuruchiUpenn.github.io"
   About Me: "aboutme"
   Research:
-    - Projects: "http://deanattali.com/beautiful-jekyll/"
-    - Publication: "http://www.markdowntutorial.com/"
+    - Projects: "Projects.md"
+    - Publication: "Publications.md"
     - Group Webpage: "http://patelgroup.seas.upenn.edu/index.html"  
 
   
