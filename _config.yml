@@ -23,11 +23,12 @@ description: personal website of Suruchi Fialoke
 
 # List of links in the navigation bar
 navbar-links:
-  Blog Home: "http://SuruchiUpenn.github.io"
   About Me: "aboutme"
+  Blog: "http://SuruchiUpenn.github.io"
+  Projects: "Projects"
   Research:
     - My Research: "Research.md"
-    - Publication: "Publications.md"
+    - Publications: "Publications.md"
     - Group Webpage: "http://patelgroup.seas.upenn.edu/index.html"  
 
   
