@@ -17,6 +17,11 @@ However, the study of these nanomaterials using macroscopic models is often chal
 (due to the motion and behavior of individual particles) begin to have a significant effect on the behavior of a system. 
 This challenge often comes in the way of envisaging the design principles for creating these nanomaterials. 
 
+![Nanotextured Surfaces](/img/image_surf.png)
+Format: ![Alt Text](url)
+
+Molecular dynamics simulations allow for the direct study of the dynamical and thermodynamical evolution of a system.By understanding the behaviour of water and other liquids adjacent to complex nanoscopic surfaces using molecular simulations, I inform the design of functional materials. Some of the systems that I have explored are non-sticky superhydrophobic and oleophobic surfaces, pores enabling heterogeneous nucleation and desalination membranes. Shown above are some of the surfaces that I have studied using molecular dynamics simulations
+
 
 ### Superhydrophobic Surfaces
 Owing to a water contact angle greater than 150° and an effortless rolling off of water droplets, 
