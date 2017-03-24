@@ -1,7 +1,7 @@
 ---
 layout: page
-subtitle: #
-title: #
+subtitle:   
+title:   
 ---
 
 
