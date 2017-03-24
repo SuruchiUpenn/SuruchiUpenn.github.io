@@ -23,13 +23,14 @@ description: My personal website
 
 # List of links in the navigation bar
 navbar-links:
+  Blog Home: "http://SuruchiUpenn.github.io"
   About Me: "aboutme"
   Research:
     - Projects: "http://deanattali.com/beautiful-jekyll/"
     - Publication: "http://www.markdowntutorial.com/"
-    - Group Webpage: "http://patelgroup.seas.upenn.edu/index.html"
-  Author's home: "http://SuruchiUpenn.github.io"
+    - Group Webpage: "http://patelgroup.seas.upenn.edu/index.html"  
 
+  
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/avatar-icon.png"
