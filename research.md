@@ -5,8 +5,6 @@ title: Research
 
 ### Computational Design of Advanced Materials
 
->_I want to build a billion tiny factories, models of each other, which are manufacturing simultaneously… The principles of physics, as far as I can see, do not speak against the possibility of maneuvering things atom by atom. It is not an attempt to violate any laws; it is something, in principle, that can be done; but in practice, it has not been done because we are too big_ 
--Richard Fynman
 
 
 My research interest lies in exploring the design principles of nanomaterials that have useful industrial applications.   
@@ -53,3 +51,7 @@ Another context where nanotechnology can play a crucial role is the use of nanop
 
 
 I seek to establish a connection between the molecular properties of the membrane and its macroscopic performance by using molecular dynamics simulations. Using NP films is particularly convenient, because it provides unprecedented control over the pore geometry and its chemical environment, and has also been shown to be easy to manufacture and scale.
+
+>_I want to build a billion tiny factories, models of each other, which are manufacturing simultaneously… The principles of physics, as far as I can see, do not speak against the possibility of maneuvering things atom by atom. It is not an attempt to violate any laws; it is something, in principle, that can be done; but in practice, it has not been done because we are too big_ 
+-Richard Fynman
+
