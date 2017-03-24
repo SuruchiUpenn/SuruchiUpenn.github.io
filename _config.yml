@@ -14,20 +14,20 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: Suruchi Fialoke
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: My personal website
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  Research:
+    - Projects: "http://deanattali.com/beautiful-jekyll/"
+    - Publication: "http://www.markdowntutorial.com/"
+    - Group Webpage: "http://patelgroup.seas.upenn.edu/index.html"
   Author's home: "http://SuruchiUpenn.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -62,13 +62,13 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
@@ -86,14 +86,14 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "suruchifialoke.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+#disqus: "suruchifialoke"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+#google_analytics: "UA-96083008-1"
 
 # Google Tag Manager ID
 #gtm: ""
