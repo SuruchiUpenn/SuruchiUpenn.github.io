@@ -1,11 +1,10 @@
 ---
 layout: page
 subtitle:   
-title: ...  
+title: Publications  
 ---
 
 
-## List of Publications and Presentations
 
 ### Publications
 
