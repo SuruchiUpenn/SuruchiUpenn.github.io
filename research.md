@@ -1,13 +1,12 @@
 ---
 layout: page
-title: ...
+title: Research
 ---
-## Research
+
+### Computational Design of Advanced Materials
 
 >_I want to build a billion tiny factories, models of each other, which are manufacturing simultaneously… The principles of physics, as far as I can see, do not speak against the possibility of maneuvering things atom by atom. It is not an attempt to violate any laws; it is something, in principle, that can be done; but in practice, it has not been done because we are too big_ 
 -Richard Fynman
-
-### Computational Design of Advanced Materials
 
 
 My research interest lies in exploring the design principles of nanomaterials that have useful industrial applications.   
