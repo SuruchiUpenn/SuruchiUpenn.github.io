@@ -1,3 +1,6 @@
+---
+layout: page
+---
 
 
 ## List of Publications and Presentations
